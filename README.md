@@ -15,10 +15,6 @@ Dropbox (Free Tier)
 3. Generated a public link for the file.
 4. Tested access in a browser.
 
-**Screenshot:**  
-![Dropbox Upload Screenshot]("C:/Users/TARUN/OneDrive/Pictures/Screenshots/jpg-file.png")
-
-
 **Outcome:**  
 Successfully uploaded and shared a file using cloud storage.  
 Understood the concept of buckets (folders), objects (files), and public access links.
