@@ -1,4 +1,4 @@
-# Task 1: Cloud Storage Bucket and File Upload
+# Cloud Storage Bucket and File Upload
 
 **Objective:**  
 Understand cloud object storage basics by creating a cloud bucket/folder, uploading files, and testing accessibility.
@@ -16,8 +16,7 @@ Dropbox (Free Tier)
 4. Tested access in a browser.
 
 **Screenshot:**  
-![Dropbox Upload Screenshot](https://www.dropbox.com/scl/fi/qy140l4vpheagvnvvy0z4/Cloud-storage.txt?rlkey=tefi0lxooaqz7no5jnm0q3kng&st=ms2f3q0i&dl=0)
-![Dropbox Upload Screenshot](https://www.dropbox.com/scl/fi/0uk9pfu8wpf99zxz1ag24/Cloud-Storage.jpg?rlkey=677mmtw23vmo96zs204axkxcl&st=u4c6fql7&dl=0)
+![Dropbox Upload Screenshot](C:\Users\TARUN\OneDrive\Pictures\Screenshots)
 
 
 **Outcome:**  
