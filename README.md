@@ -16,7 +16,7 @@ Dropbox (Free Tier)
 4. Tested access in a browser.
 
 **Screenshot:**  
-![Dropbox Upload Screenshot](screenshots/dropbox_file_uploaded.png)
+![Dropbox Upload Screenshot]("C:/Users/TARUN/OneDrive/Pictures/Screenshots/jpg-file.png")
 
 
 **Outcome:**  
